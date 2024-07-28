@@ -46,15 +46,15 @@ In this project, we focus on improving HFL by strategically deploying edge serve
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10.6
 - Required Python libraries (listed in `requirements.txt`)
 
 ### Installation
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hierarchical-federated-learning.git
-   cd hierarchical-federated-learning
+   git clone https://github.com/sunoopy/HFAVG.git
+   cd HFAVG
 2. Install the required Library
 
 
@@ -86,9 +86,7 @@ If you use this code or dataset in your research, please cite the following pape
   year={2024}
 }
 Contact
-For any questions or inquiries, please contact:
-
-Your Name: swkang.official@gamil.com
+For any questions or inquiries, please contact me by email
 
 Thank you for your interest in this project!
 
